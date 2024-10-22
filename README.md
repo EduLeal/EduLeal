@@ -3,6 +3,7 @@
 - 🌱 Aprendendo sobre C e pesquisando JavaScript por conta própria
 - 📫 Entre em contato comigo pelo email: eduardolealaruth@gmail.com
 - 😄 Pronomes: Ele/dele
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduLeal)](https://git.io/streak-stats)
 
