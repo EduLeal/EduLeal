@@ -1,7 +1,11 @@
-## Olá 👋
+## Olá visitante👋
+- 🖥️ Atualmente trabalhando no desenvolvimento de um jogo educacional usando uma biblioteca da linguagem C e uma página na web feita para uma biblioteca municipal
+- 🌱 Aprendendo sobre C e pesquisando JavaScript por conta própria
+- 📫 Entre em contato comigo pelo email: eduardolealaruth@gmail.com
+- 😄 Pronomes: Ele/dele
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduLeal)](https://git.io/streak-stats)
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
 
 
 <!--
