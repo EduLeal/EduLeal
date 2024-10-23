@@ -7,8 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduLeal&show_icons=true&theme=tokyonight ) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EduLeal&theme=tokyonight )](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduLeal&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=EduLeal&theme=tokyonight
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduLeal&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=EduLeal&theme=tokyonight
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
