@@ -6,7 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduLeal&show_icons=true&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduLeal)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=EduLeal)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EduLeal&theme=darkhub
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
