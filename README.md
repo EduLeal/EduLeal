@@ -4,8 +4,8 @@
 - 📫 Entre em contato comigo pelo email: eduardolealaruth@gmail.com
 - 😄 Pronomes: Ele/dele
 
-<div width="50%" align="left"><img src="https://github-readme-stats.vercel.app/api?username=EduLeal&show_icons=true&theme=tokyonight"></div>
-<div width="50%" align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=EduLeal&theme=tokyonight"></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=EduLeal&show_icons=true&theme=tokyonight"></div>
+<div align="left"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=EduLeal&theme=tokyonight"></div>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLeal&theme=tokyonight"></div>
 <div><img src="https://github-profile-trophy.vercel.app/?username=EduLeal&theme=tokyonight"></div>
 
