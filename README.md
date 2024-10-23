@@ -4,8 +4,7 @@
 - 📫 Entre em contato comigo pelo email: eduardolealaruth@gmail.com
 - 😄 Pronomes: Ele/dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduLeal&show_icons=true&theme=transparent)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EduLeal&theme=dark-minimalist)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduLeal&show_icons=true&theme=transparent) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EduLeal&theme=dark-minimalist)](https://git.io/streak-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EduLeal&theme=darkhub
