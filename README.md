@@ -5,7 +5,7 @@
 - 😄 Pronomes: Ele/dele
 
 <div width=50%><img src="https://github-readme-stats.vercel.app/api?username=EduLeal&show_icons=true&theme=tokyonight"> <img src="https://github-readme-streak-stats.herokuapp.com?user=EduLeal&theme=tokyonight"> </div>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLeal&theme=tokyonight"></div>
+<div text-align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduLeal&theme=tokyonight"></div>
 <div><img src="https://github-profile-trophy.vercel.app/?username=EduLeal&theme=tokyonight"></div>
 
 
